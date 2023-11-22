@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashish chetry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish chetry" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ashish chetry](https://www.linkedin.com/in/ashish-chetry-049958230/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish chetry" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/cu_21bcs3155" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cu_21bcs3155" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashishchetry123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishchetry123" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ashishchetry860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashishchetry860" height="30" width="40" /></a>
